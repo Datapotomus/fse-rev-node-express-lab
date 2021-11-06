@@ -1,0 +1,27 @@
+{
+  "name": "fse-rev-node-express-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Datapotomus/fse-rev-node-express-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Datapotomus/fse-rev-node-express-lab/issues"
+  },
+  "homepage": "https://github.com/Datapotomus/fse-rev-node-express-lab#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0"
+  }
+}
